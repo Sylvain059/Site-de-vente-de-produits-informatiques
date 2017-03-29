@@ -125,3 +125,21 @@ footer {
   color: pink;
 }
 /*Fin du style pour le footer*/
+
+/*debut style pour la page 2 html*/
+
+.contact {
+  background-color: #FEFEE2;
+  width: 400px;
+  height: 400px;
+  border: 2px groove black;
+  margin: auto;
+  margin-top: 20px;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 275px;
+  height: 150px;
+}
