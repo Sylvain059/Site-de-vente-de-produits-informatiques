@@ -1,3 +1,8 @@
+body {
+  text-align: center;
+  font-family: Arial;
+}
+
 /*Début du style pour le header*/
 
 header {
@@ -36,15 +41,17 @@ header form {
 }
 
 header a {
-  width: 100px;
+  width: 91px;
   text-decoration: none;
   color: white;
   float: right;
   display: inline-block;
-  padding-right: 10px;
-}
+  margin-right:15px;
+  margin-top: -5px;
 
-a:hover {
+  }
+
+header a:hover {
   text-decoration: underline;
   color: pink;
 }
@@ -79,13 +86,42 @@ h3 {
 .picture {
   width: 200px;
   height: 300px;
-  margin: auto;
+
+
 }
 
 .description {
   width: 200px;
-  height: 200px;
+  height: 150px;
   background-color: yellow;
   border: 2px groove black;
+
 }
 /*Fin du style pour la section*/
+
+/*Début du style pour le footer*/
+
+footer {
+  height: 100px;
+  width: 1325px;
+  background-color: #03224C;
+}
+
+.endPage {
+  width: 80px;
+  text-decoration: none;
+  color: white;
+  float: right;
+  display: inline-block;
+  margin-right: 50px;
+  margin-top: 45px;
+
+}
+
+.endPage:hover {
+  border: 3px solid white;
+  border-radius: 5px;
+  text-decoration: underline;
+  color: pink;
+}
+/*Fin du style pour le footer*/
