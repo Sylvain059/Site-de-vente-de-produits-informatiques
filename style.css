@@ -116,6 +116,8 @@ footer {
   height: 100px;
   width: 1325px;
   background-color: #03224C;
+  border: 2px inset white;
+  border-radius: 5px;
 }
 
 .endPage {
