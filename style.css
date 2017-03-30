@@ -166,7 +166,7 @@ textarea {
 
 /*###########################Fin du style pour la page 2#################################### ***********************************************************/
 
-/************************************Début du style pour l'article 01*********************************************************************************/
+/************************************Début du style pour l'article 01 02 03*********************************************************************************/
 .pageArticle {
   width: 300px;
   height: 350px;
@@ -216,4 +216,25 @@ h4 {
   background-color: #00FF00;
   color: white;
   margin: 10px 650px;
+}
+
+/****************************************************Fin du style pour l'article 01 02 03**************************************/
+
+/***************************************************Début du style pour la page de présentation*********************************************/
+
+.paragraphePresentation {
+  height: 100px;
+  width: 500px;
+  background-color: white;
+  font-size: 20px;
+  border: 2px inset black;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 50px 425px;
+}
+
+iframe {
+  border: 2px inset black;
+  border-radius: 5px;
+  margin: 20px 475px;
 }
