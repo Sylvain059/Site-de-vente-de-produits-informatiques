@@ -1,9 +1,13 @@
 body {
-  text-align: center;
+  background: url("https://newevolutiondesigns.com/images/freebies/retro-wallpaper-35.jpg") fixed;
+  text-align: left;
   font-family: Arial;
+  width: 1325px;
+  height: auto;
+
 }
 
-/*Début du style pour le header*/
+/*################################################Début du style pour le header#####################################*/
 
 header {
   width: 1325px;
@@ -58,13 +62,13 @@ header a:hover {
 
 /*Fin du du style pour le header*/
 
-/*Début du style pour la section*/
+/***********************************************************Début du style pour la section****************************/
 
 section {
-background-color: grey;
-width: 1325px;
-height: 650px;
-margin-top: 20px;
+  background-color: grey;
+  width: 1325px;
+  height: 650px;
+  margin-top: 20px;
 }
 
 article {
@@ -72,7 +76,6 @@ article {
   vertical-align: middle;
   width: 200px;
   height: 400px;
-  border: 2px groove black;
   margin-left: 115px;
   margin-right: 115px;
   margin-top: 20px;
@@ -97,7 +100,7 @@ h3 {
   border: 2px groove black;
 
 }
-/*Fin du style pour la section*/
+/**************************************************Fin du style pour la section***********************************/
 
 /*Début du style pour le footer*/
 
@@ -124,9 +127,9 @@ footer {
   text-decoration: underline;
   color: pink;
 }
-/*Fin du style pour le footer*/
+/*Fin du style pour le footer*********************************************************************************************/
 
-/*debut style pour la page 2 html*/
+/*début du style pour la page 2 html*/
 
 .contact {
   background-color: #FEFEE2;
@@ -142,4 +145,57 @@ footer {
 textarea {
   width: 275px;
   height: 150px;
+}
+
+/*###########################Fin du style pour la page 2#################################### ***********************************************************/
+
+/************************************Début du style pour l'article 01*********************************************************************************/
+.pageArticle {
+  width: 300px;
+  height: 350px;
+  margin-left: -708px;
+  margin-top: -170px;
+  background-color: #1D4851;
+  display: inline-block;
+
+}
+
+.pageImage {
+  width: 250px;
+  height: 300px;
+  margin: 25px;
+
+}
+
+.pageDescription {
+  width: 600px;
+  height: 400px;
+  padding: 5px;
+  background-color:#1D4851;
+  color: white;
+  display: inline-block;
+}
+
+.pageDescription h3 {
+  background-color: red;
+  color: #1D4851;
+}
+
+h5 {
+  background-color: white;
+  color:red;
+  padding: 5px;
+  width: 130px;
+  font-size: 35px;
+  margin: 0px auto;
+  border-radius: 5px;
+}
+
+.pageButton {
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #00FF00;
+  color: white;
+  margin: 10px 650px;
 }
