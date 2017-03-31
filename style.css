@@ -1,5 +1,5 @@
 body {
-  background: url("https://newevolutiondesigns.com/images/freebies/retro-wallpaper-35.jpg") fixed;
+  background: url("http://www.ecometalconcept.fr/userfiles/470/eco_metal_concept_fond.jpg") fixed;
   text-align: left;
   font-family: Arial;
   width: 1325px;
@@ -171,9 +171,11 @@ textarea {
   width: 300px;
   height: 350px;
   margin-left: -708px;
-  margin-top: -290px;
+  margin-top: -320px;
   background-color: #1D4851;
   display: inline-block;
+  border: 2px inset black;
+  border-radius: 5px;
 
 }
 
@@ -186,16 +188,20 @@ textarea {
 
 .pageDescription {
   width: 600px;
-  height: 350px;
+  height: 375px;
   padding: 5px;
   background-color:#1D4851;
   color: white;
   display: inline-block;
+  border: 2px inset black;
+  border-radius: 5px;
 }
 
 .pageDescription h2 {
   background-color: red;
   color: #1D4851;
+  border: 2px inset black;
+  border-radius: 5px;
 }
 
 h4 {
@@ -207,6 +213,8 @@ h4 {
   margin: 0px auto;
   border-radius: 5px;
   padding-left: 15px;
+  border: 2px inset black;
+  border-radius: 5px;
 }
 
 .pageButton {
@@ -216,6 +224,7 @@ h4 {
   background-color: #00FF00;
   color: white;
   margin: 10px 650px;
+  font-weight: bold;
 }
 
 /****************************************************Fin du style pour l'article 01 02 03**************************************/
