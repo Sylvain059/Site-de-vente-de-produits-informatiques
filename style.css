@@ -4,7 +4,6 @@ body {
   font-family: Arial;
   width: 1325px;
   height: auto;
-
 }
 
 /*################################################Début du style pour le header#####################################*/
@@ -95,8 +94,6 @@ h2 {
   width: 200px;
   height: 300px;
   border-radius: 5px;
-
-
 }
 
 .description {
@@ -106,7 +103,6 @@ h2 {
   border: 2px inset white;
   color: white;
   border-radius: 5px;
-
 }
 /**************************************************Fin du style pour la section***********************************/
 
@@ -128,7 +124,6 @@ footer {
   display: inline-block;
   margin: 40px 15px;
   padding: 0px 10px;
-
 }
 
 .endPage:hover {
@@ -176,14 +171,12 @@ textarea {
   display: inline-block;
   border: 2px inset black;
   border-radius: 5px;
-
 }
 
 .pageImage {
   width: 250px;
   height: 300px;
   margin: 25px;
-
 }
 
 .pageDescription {
@@ -204,12 +197,13 @@ textarea {
   border-radius: 5px;
 }
 
-h4 {
+.prix {
   background-color: white;
   color:red;
   padding: 5px;
   width: 150px;
   font-size: 35px;
+  font-weight: bold;
   margin: 0px auto;
   border-radius: 5px;
   padding-left: 15px;
